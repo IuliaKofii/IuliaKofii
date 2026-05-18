@@ -1,23 +1,12 @@
 ## Hello, I am Iulia! ✨
 ![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBoeTFybzRnb2s1dnlzcGNrMGJ1aTgyZnlodTUxM2hhNGx6Z290YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sL6YbKquotp6ieuPpf/giphy.gif)
+![hippo](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWRmZ2JpY3g4amVicmJlNjZocm4yczRyeWFub3FiOHlqeDIwNHpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XkvjX2UJ2fPDDkm6x/giphy.gif)
 
 ## About me :D
 
-✨I am a Electronics, Telecommunications and Information Technology Student.<br/>
+✨I am a ** Electronics, Telecommunications and Information Technology Student **.<br/>
+____________________________________________
 🫧I love finding out new things about technology and creating new things.<br/>
+____________________________________________
 🌊Also I am interested in art [my art account ^^](https://www.instagram.com/rimoon47?igsh=eHE1ZmhlOXN5OTF3) and creating a game someday<br/>. 
 
-<!--
-**IuliaKofii/IuliaKofii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

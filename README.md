@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello, I am Iulia! ✨
+![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBoeTFybzRnb2s1dnlzcGNrMGJ1aTgyZnlodTUxM2hhNGx6Z290YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sL6YbKquotp6ieuPpf/giphy.gif)
+
+## About me :D
+
+I am a Electronics, Telecommunications and Information Technology Student.
+I love finding out new things about technology and creating new things.
+Also I am interested in art (@rimoon47-my art acc) and creating a game someday 
 
 <!--
 **IuliaKofii/IuliaKofii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

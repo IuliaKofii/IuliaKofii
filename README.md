@@ -5,7 +5,7 @@
 
 ✨I am a Electronics, Telecommunications and Information Technology Student.<br/>
 🫧I love finding out new things about technology and creating new things.<br/>
-🌊Also I am interested in art [my art account ^^](https://www.instagram.com/rimoon47?igsh=eHE1ZmhlOXN5OTF3)) and creating a game someday<br/>. 
+🌊Also I am interested in art ([my art account ^^]) (https://www.instagram.com/rimoon47?igsh=eHE1ZmhlOXN5OTF3) and creating a game someday<br/>. 
 
 <!--
 **IuliaKofii/IuliaKofii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

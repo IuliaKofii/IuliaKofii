@@ -3,9 +3,9 @@
 
 ## About me :D
 
-I am a Electronics, Telecommunications and Information Technology Student.
-I love finding out new things about technology and creating new things.
-Also I am interested in art (@rimoon47-my art acc) and creating a game someday 
+I am a Electronics, Telecommunications and Information Technology Student.<br/>
+I love finding out new things about technology and creating new things.<br/>
+Also I am interested in art (@rimoon47-my art acc) and creating a game someday<br/>. 
 
 <!--
 **IuliaKofii/IuliaKofii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

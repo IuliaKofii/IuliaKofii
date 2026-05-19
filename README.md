@@ -1,5 +1,5 @@
 ## Hello, I am Iulia! ✨
-![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBoeTFybzRnb2s1dnlzcGNrMGJ1aTgyZnlodTUxM2hhNGx6Z290YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sL6YbKquotp6ieuPpf/giphy.gif)
+![hippo](https://media.discordapp.net/attachments/908901300584984596/1122672087761440838/0738423A-A77F-437D-8B04-24612AAA6B85.gif)
 
 
 ## About me :D

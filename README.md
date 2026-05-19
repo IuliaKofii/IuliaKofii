@@ -1,6 +1,4 @@
 ## Hello, I am Iulia! ✨
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJwbjBrZ3VlNWtuMmFrbDVjdmRlZDc2b2d3M212OGNjNm10bmU2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif" alt="Alt Text" style="width:50%; height:auto;">
-
 
 ## About me :D
 
@@ -8,5 +6,5 @@
 ____________________________________________
 🫧I love finding out new things about technology and creating new things.<br/>
 ____________________________________________
-🌊Also I am interested in art [my art account ^^](https://www.instagram.com/rimoon47?igsh=eHE1ZmhlOXN5OTF3) and creating a game someday<br/>. 
+🌊Also I am interested in art(@rimoon47-ig) and creating a game someday<br/>. 
 

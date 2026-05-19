@@ -6,5 +6,5 @@
 ____________________________________________
 🫧I love finding out new things about technology and creating new things.<br/>
 ____________________________________________
-🌊Also I am interested in art(@rimoon47-ig) and creating a game someday<br/>. 
+🌊Also I am interested in art(@rimoon47-ig) and creating a game someday.<br/>
 

@@ -1,5 +1,5 @@
 ## Hello, I am Iulia! ✨
-![hippo](https://tenor.com/fNAZbpjBcQQ.gif)
+![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJwbjBrZ3VlNWtuMmFrbDVjdmRlZDc2b2d3M212OGNjNm10bmU2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif)
 
 
 ## About me :D

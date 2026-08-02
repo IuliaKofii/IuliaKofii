@@ -23,6 +23,8 @@
 ### 📫 Find me
 - Instagram: [@rimoon47](https://instagram.com/rimoon47)
 - GitHub: [@IuliaKofii](https://github.com/IuliaKofii)
+- Email: iuliabuciumanand@gmail.com
+- Linkedin:[@Iulia-Andreea Buciuman](https://www.linkedin.com/in/iulia-andreea-buciuman)
 
 ---
 
